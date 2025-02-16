@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Wasim Raza
 
-🚀 **DevOps Engineer | Cloud Enthusiast | IT Trainer**
+🚀 **DevOps Engineer | Cloud Enthusiast 
 
 I'm a passionate IT professional with expertise in cloud computing, DevOps, and application modernization. My experience includes working on diverse projects involving microservices, Java-based web applications, containerization, and cloud infrastructure.
 
